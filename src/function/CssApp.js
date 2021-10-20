@@ -67,7 +67,7 @@ const PokeSearch = styled.input`
     border: 1px #ddd solid;
     border-radius: 20px;
     margin-left: 0px;
-    background: #D6FFDE;
+    background: #f9f9f9;
     position: relative;
     top: -10px;
 `;
